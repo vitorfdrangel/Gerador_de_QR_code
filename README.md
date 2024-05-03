@@ -1,1 +1,1 @@
-Este projeto foi criado para intensificar meu aprendizado em javascript, onde criei um gerador de QR Code dando dinamicidade com js e fazendo uso de uma API para gerar a imagem com o código.
+Digite o que você deseja e clique em "gerar QR Code", logo em seguida o código será gerado na tela. Abra seu leitor de QR Code e aponte para o código gerado.
